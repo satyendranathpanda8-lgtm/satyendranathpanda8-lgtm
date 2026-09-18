@@ -130,4 +130,56 @@ https://github.com/satyendranathpanda8-lgtm/Customer_Behavior_Analysis
 
 ---
 
-## 🔥 Contribution
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=satyendranathpanda8-lgtm&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=satyendranathpanda8-lgtm&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=satyendranathpanda8-lgtm&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/satyendranathpanda8-lgtm/satyendranathpanda8-lgtm/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/satyendranath-panda" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40" alt="LinkedIn"/>
+</a>
+
+<a href="https://www.hackerrank.com/@satyendranathpa1" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="40" height="40" alt="HackerRank"/>
+</a>
+</p>
+
+---
+
+<p align="center">
+  <b>⭐ Thanks for visiting my profile!</b>
+</p>
+
+<p align="center">
+  <i>Always learning. Always analyzing. Always building.</i>
+</p>
