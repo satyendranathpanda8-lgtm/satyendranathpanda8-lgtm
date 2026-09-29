@@ -139,7 +139,8 @@ https://github.com/satyendranathpanda8-lgtm/Customer_Behavior_Analysis
 ---
 
 ## 📈 Contribution Activity
-[![SatyendraNath Panda's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=satyendranathpanda8-lgtm&theme=github-compact&hide_border=true&area=true)](https://github.com/satyendranathpanda8-lgtm)
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=satyendranathpanda8-lgtm&theme=github-compact&hide_border=true&area=true" alt="GitHub Activity Graph"/>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=satyendranathpanda8-lgtm&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/>
 </p>
