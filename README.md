@@ -1,8 +1,8 @@
 # Hi 👋, I'm SatyendraNath Panda
 
-- 🌱 I’m currently learning Machine Learning
-- 👯 I’m looking to collaborate on Data Analytics projects
-- 💬 Ask me about Python, EDA, SQL, Power BI
+* 🌱 I’m currently learning Machine Learning
+* 👯 I’m looking to collaborate on Data Analytics projects
+* 💬 Ask me about Python, EDA, SQL, Power BI
 
 ### Connect with me:
 
@@ -13,9 +13,10 @@
   <a href="https://www.hackerrank.com/@satyendranathpa1" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="40" height="40" alt="HackerRank"/>
   </a>
+  <a href="mailto:satyendranathpanda8@gmail.com">
+    <img src="https://img.icons8.com/color/96/gmail-new.png" width="40" height="40" alt="Email"/>
+  </a>
 </p>
-
-satyendranathpanda8@gmail.com
 
 ### Languages and Tools:
 
@@ -28,6 +29,9 @@ satyendranathpanda8@gmail.com
   </a>
   <a href="https://numpy.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy"/>
+  </a>
+  <a href="https://matplotlib.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="40" height="40" alt="Matplotlib"/>
   </a>
   <a href="https://seaborn.pydata.org/" target="_blank">
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40" alt="Seaborn"/>
